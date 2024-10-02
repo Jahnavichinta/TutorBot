@@ -5,7 +5,6 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Challenges and Solutions](#challenges-and-solutions)
@@ -35,9 +34,6 @@ GenAI models are adept at natural language understanding and generation, making 
 - **Generative AI API**: Google Gemini API
 - **Styling**: CSS
 - **Version Control**: Git, GitHub
-
-## Architecture
-![Architecture Diagram]("C:\Users\jahna\OneDrive\Pictures\Screenshots\Screenshot 2024-10-03 000819.png")
 
 The architecture consists of:
 - **Frontend** (React): Handles user interaction and displays chat responses.
